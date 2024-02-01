@@ -1,0 +1,4 @@
+﻿  Assignment2B.cpp
+C:\Users\nucle\OneDrive\Desktop\cse 1321L\assigments\Assignment2B\Assignment2B.cpp(23,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\nucle\OneDrive\Desktop\cse 1321L\assigments\Assignment2B\Assignment2B.cpp(24,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Assignment2B.vcxproj -> C:\Users\nucle\OneDrive\Desktop\cse 1321L\assigments\Assignment2B\Debug\Assignment2B.exe
